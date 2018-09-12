@@ -6,6 +6,10 @@ In June 2018 [we published a map](https://www.bbc.co.uk/news/uk-england-44495550
 
 The map was originally created in Carto to provide the ability to drill down to see details on each player. However, in discussion with the Visual Journalism team, it was decided to instead create a static map, based on the lack of interaction with maps typically seen with users on mobile devices.
 
+## Get the data
+
+* CSV: [England World Cup squad](https://github.com/BBC-Data-Unit/world-cup-squad-map/blob/master/englandworldcupsquad.csv) position and lat/long
+
 ## Visualisation
 
 ![](https://ichef.bbci.co.uk/news/624/cpsprodpb/16B10/production/_102044929_where_england_wc_players-nc.png)
